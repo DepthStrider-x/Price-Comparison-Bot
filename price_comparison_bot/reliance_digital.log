@@ -1,0 +1,81 @@
+2026-02-04 11:20:05,411 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 11:29:14,393 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 11:31:37,796 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 11:37:20,358 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 11:44:27,589 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 11:44:31,073 | INFO | Chrome driver initialized
+2026-02-04 11:44:31,074 | INFO | Opening homepage: https://www.reliancedigital.in/
+2026-02-04 11:44:44,132 | INFO | Search triggered for query: 'iPhone 17 Pro'
+2026-02-04 11:44:49,338 | INFO | Product cards detected: 12
+2026-02-04 11:44:49,417 | INFO | Parsed product 1: Beats Apple iPhone 17 Pro Max Kickstand Mobile Case, Lime Stone
+2026-02-04 11:44:49,462 | INFO | Parsed product 2: Beats Apple iPhone 17 Pro Kickstand Mobile Case, Lime Stone
+2026-02-04 11:44:49,509 | INFO | Parsed product 3: Apple iPhone 17 Pro 256 GB, Cosmic Orange
+2026-02-04 11:44:49,557 | INFO | Parsed product 4: Apple iPhone 17 Pro 256 GB, Silver
+2026-02-04 11:44:49,604 | INFO | Parsed product 5: Apple iPhone 17 Pro 256 GB, Deep Blue
+2026-02-04 11:44:49,605 | INFO | Total products scraped: 5
+2026-02-04 11:44:49,655 | INFO | Results saved → reliance_digital_output.json
+2026-02-04 11:44:54,337 | INFO | Browser closed cleanly
+2026-02-04 11:44:54,337 | INFO | ===== Scraper Finished =====
+2026-02-04 11:52:39,881 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:27:23,380 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:29:04,197 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:35:24,805 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:38:05,673 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:39:21,184 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:44:26,801 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:55:28,368 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 12:55:30,143 | INFO | Chrome driver initialized
+2026-02-04 12:55:30,143 | INFO | Opening homepage: https://www.reliancedigital.in/
+2026-02-04 12:55:45,570 | INFO | Search triggered for query: 'iPhone 17 Pro'
+2026-02-04 12:55:50,998 | INFO | Product cards detected: 12
+2026-02-04 12:55:51,069 | INFO | Parsed product 1: Beats Apple iPhone 17 Pro Max Kickstand Mobile Case, Lime Stone
+2026-02-04 12:55:51,115 | INFO | Parsed product 2: Beats Apple iPhone 17 Pro Kickstand Mobile Case, Lime Stone
+2026-02-04 12:55:51,161 | INFO | Parsed product 3: Apple iPhone 17 Pro 256 GB, Cosmic Orange
+2026-02-04 12:55:51,208 | INFO | Parsed product 4: Apple iPhone 17 Pro 256 GB, Silver
+2026-02-04 12:55:51,254 | INFO | Parsed product 5: Apple iPhone 17 Pro 512 GB, Silver
+2026-02-04 12:55:51,254 | INFO | Total products scraped: 5
+2026-02-04 12:55:51,290 | INFO | Results saved → reliance_digital_output.json
+2026-02-04 12:55:53,740 | INFO | Browser closed cleanly
+2026-02-04 12:55:53,741 | INFO | ===== Scraper Finished =====
+2026-02-04 13:06:23,193 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 13:06:24,465 | INFO | Chrome driver initialized
+2026-02-04 13:06:24,465 | INFO | Opening homepage: https://www.reliancedigital.in/
+2026-02-04 13:06:39,633 | INFO | Search triggered for query: 'iPhone 17 Pro'
+2026-02-04 13:06:46,537 | INFO | Product cards detected: 12
+2026-02-04 13:06:46,650 | INFO | Parsed product 1: Beats Apple iPhone 17 Pro Max Kickstand Mobile Case, Lime Stone
+2026-02-04 13:06:46,701 | INFO | Parsed product 2: Beats Apple iPhone 17 Pro Kickstand Mobile Case, Lime Stone
+2026-02-04 13:06:46,750 | INFO | Parsed product 3: Apple iPhone 17 Pro 256 GB, Cosmic Orange
+2026-02-04 13:06:46,793 | INFO | Parsed product 4: Apple iPhone 17 Pro 256 GB, Silver
+2026-02-04 13:06:46,839 | INFO | Parsed product 5: Apple iPhone 17 Pro 512 GB, Silver
+2026-02-04 13:06:46,839 | INFO | Total products scraped: 5
+2026-02-04 13:06:46,840 | INFO | Results saved → reliance_digital_output.json
+2026-02-04 13:06:54,080 | INFO | Browser closed cleanly
+2026-02-04 13:06:54,080 | INFO | ===== Scraper Finished =====
+2026-02-04 13:11:48,593 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 13:11:49,313 | INFO | Chrome driver initialized
+2026-02-04 13:11:49,314 | INFO | Opening homepage: https://www.reliancedigital.in/
+2026-02-04 13:12:03,338 | INFO | Search triggered for query: 'iPhone 17 Pro'
+2026-02-04 13:12:08,656 | INFO | Product cards detected: 12
+2026-02-04 13:12:08,738 | INFO | Parsed product 1: Beats Apple iPhone 17 Pro Max Kickstand Mobile Case, Lime Stone
+2026-02-04 13:12:08,784 | INFO | Parsed product 2: Beats Apple iPhone 17 Pro Kickstand Mobile Case, Lime Stone
+2026-02-04 13:12:08,830 | INFO | Parsed product 3: Apple iPhone 17 Pro 256 GB, Cosmic Orange
+2026-02-04 13:12:08,893 | INFO | Parsed product 4: Apple iPhone 17 Pro 256 GB, Silver
+2026-02-04 13:12:08,949 | INFO | Parsed product 5: Apple iPhone 17 Pro 256 GB, Deep Blue
+2026-02-04 13:12:08,949 | INFO | Total products scraped: 5
+2026-02-04 13:12:08,950 | INFO | Results saved → reliance_digital_output.json
+2026-02-04 13:12:11,910 | INFO | Browser closed cleanly
+2026-02-04 13:12:11,910 | INFO | ===== Scraper Finished =====
+2026-02-04 13:17:31,423 | INFO | ===== Reliance Digital Scraper Started =====
+2026-02-04 13:17:32,866 | INFO | Chrome driver initialized
+2026-02-04 13:17:32,866 | INFO | Opening homepage: https://www.reliancedigital.in/
+2026-02-04 13:17:46,588 | INFO | Search triggered for query: 'iPhone 16 Pro'
+2026-02-04 13:17:51,938 | INFO | Product cards detected: 12
+2026-02-04 13:17:52,110 | INFO | Parsed product 1: Apple iPhone 16 Pro 256 GB, Natural Titanium
+2026-02-04 13:17:52,160 | INFO | Parsed product 2: Apple iPhone 16 Pro 512 GB, Natural Titanium
+2026-02-04 13:17:52,222 | INFO | Parsed product 3: Apple iPhone 16 Pro Max 256 GB, White Titanium
+2026-02-04 13:17:52,276 | INFO | Parsed product 4: Apple iPhone 16 Pro 128 GB, Black Titanium
+2026-02-04 13:17:52,328 | INFO | Parsed product 5: Apple iPhone 16 Pro 256 GB, Black Titanium
+2026-02-04 13:17:52,328 | INFO | Total products scraped: 5
+2026-02-04 13:17:52,329 | INFO | Results saved → reliance_digital_output.json
+2026-02-04 13:17:54,709 | INFO | Browser closed cleanly
+2026-02-04 13:17:54,709 | INFO | ===== Scraper Finished =====

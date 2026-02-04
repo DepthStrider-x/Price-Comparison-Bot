@@ -1,0 +1,57 @@
+{
+  "session": {
+    "search_query": "i phone 17 pro",
+    "search_time": "2025-12-22T14:18:57.381512",
+    "marketplace": "flipkart.com"
+  },
+  "best_product": {
+    "title": "Apple iPhone 17 Pro (Deep Blue, 256 GB)",
+    "price": "134900",
+    "rating": null,
+    "url": "https://www.flipkart.com/apple-iphone-17-pro-deep-blue-256-gb/p/itm239d0b996d7f0",
+    "source": "search_card",
+    "timestamp": "2025-12-22T14:19:39.811720"
+  },
+  "all_products": [
+    {
+      "title": "Apple iPhone 17 Pro (Deep Blue, 256 GB)",
+      "price": "134900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-17-pro-deep-blue-256-gb/p/itm239d0b996d7f0",
+      "source": "search_card",
+      "timestamp": "2025-12-22T14:19:39.811720"
+    },
+    {
+      "title": "Apple iPhone 17 Pro (Cosmic Orange, 256 GB)",
+      "price": "134900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-17-pro-cosmic-orange-256-gb/p/itm76fe37ca9ea8c",
+      "source": "search_card",
+      "timestamp": "2025-12-22T14:19:42.043574"
+    },
+    {
+      "title": "Apple iPhone 17 Pro (Silver, 512 GB)",
+      "price": "154900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-17-pro-silver-512-gb/p/itmfe915ac778113",
+      "source": "search_card",
+      "timestamp": "2025-12-22T14:19:43.793577"
+    },
+    {
+      "title": "Apple iPhone 17 Pro (Cosmic Orange, 512 GB)",
+      "price": "154900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-17-pro-cosmic-orange-512-gb/p/itm999d978f08430",
+      "source": "search_card",
+      "timestamp": "2025-12-22T14:19:46.370984"
+    },
+    {
+      "title": "Apple iPhone 17 Pro (Cosmic Orange, 1 TB)",
+      "price": "174900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-17-pro-cosmic-orange-1-tb/p/itm5671124459db4",
+      "source": "search_card",
+      "timestamp": "2025-12-22T14:19:49.310150"
+    }
+  ]
+}

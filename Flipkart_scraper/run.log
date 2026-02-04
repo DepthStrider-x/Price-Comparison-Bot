@@ -1,0 +1,197 @@
+2025-12-21 12:26:22,931 | INFO | ====== WebDriver manager ======
+2025-12-21 12:26:41,513 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:26:43,493 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:26:44,020 | INFO | There is no [win64] chromedriver "143.0.7499.169" for browser google-chrome "143.0.7499" in cache
+2025-12-21 12:26:44,021 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:26:45,313 | INFO | WebDriver version 143.0.7499.169 selected
+2025-12-21 12:26:45,323 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-21 12:26:45,323 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-21 12:26:45,846 | INFO | Driver downloading response is 200
+2025-12-21 12:26:48,112 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:26:48,951 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+2025-12-21 12:27:00,904 | INFO | Opening Amazon homepage
+2025-12-21 12:27:11,141 | INFO | Continue shopping button detected
+2025-12-21 12:27:28,235 | INFO | Typing search query
+2025-12-21 12:27:59,563 | INFO | Found 5 products
+2025-12-21 12:27:59,582 | ERROR | HARD STOP: Exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 a.a-link-normal"}
+  (Session info: chrome=143.0.7499.148); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb712d3
+	0xb71314
+	0x95e6dd
+	0x9a93a5
+	0x9a977b
+	0x99ed31
+	0x9cb534
+	0x99ec34
+	0x9cb6a4
+	0x9edb13
+	0x9cb2e6
+	0x99d321
+	0x99e1d4
+	0xdc5314
+	0xdc08cb
+	0xddd1aa
+	0xb8b1d8
+	0xb931dd
+	0xb795d8
+	0xb79799
+	0xb63b28
+	0x761700c9
+	0x776e7b4e
+	0x776e7b1e
+
+2025-12-21 12:28:06,519 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000252822D16D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9683d4692a1451c58f368ddab43a568f
+2025-12-21 12:28:10,584 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000252822D2210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9683d4692a1451c58f368ddab43a568f
+2025-12-21 12:28:14,630 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000252822DD5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9683d4692a1451c58f368ddab43a568f
+2025-12-21 12:35:42,233 | INFO | ====== WebDriver manager ======
+2025-12-21 12:35:44,327 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:35:45,479 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:35:46,585 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 12:35:48,466 | INFO | Opening Amazon homepage
+2025-12-21 12:36:00,913 | INFO | Continue shopping button detected
+2025-12-21 12:36:19,635 | INFO | Typing search query
+2025-12-21 12:37:06,234 | INFO | Found 5 products
+2025-12-21 12:37:06,270 | INFO | Skipping non-standard search result card
+2025-12-21 12:37:06,295 | INFO | Skipping non-standard search result card
+2025-12-21 12:37:06,320 | INFO | Skipping non-standard search result card
+2025-12-21 12:37:06,340 | INFO | Skipping non-standard search result card
+2025-12-21 12:37:06,360 | INFO | Skipping non-standard search result card
+2025-12-21 12:37:06,374 | INFO | Saved 0 products to output.json
+2025-12-21 12:44:48,843 | INFO | ====== WebDriver manager ======
+2025-12-21 12:44:51,153 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:44:52,281 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 12:44:53,372 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 12:44:59,186 | INFO | Opening Amazon homepage
+2025-12-21 12:45:09,766 | INFO | Continue shopping button detected
+2025-12-21 12:45:29,147 | INFO | Typing search query
+2025-12-21 12:46:12,349 | INFO | Found 5 products
+2025-12-21 12:46:12,406 | INFO | Skipping non-standard search result card
+2025-12-21 12:46:12,428 | INFO | Skipping non-standard search result card
+2025-12-21 12:46:12,450 | INFO | Skipping non-standard search result card
+2025-12-21 12:46:12,470 | INFO | Skipping non-standard search result card
+2025-12-21 12:46:12,490 | INFO | Skipping non-standard search result card
+2025-12-21 12:46:12,492 | INFO | Saved 0 products to output.json
+2025-12-21 13:02:20,313 | INFO | ====== WebDriver manager ======
+2025-12-21 13:02:34,965 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 13:02:36,255 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 13:02:42,686 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 13:02:47,777 | INFO | Opening Amazon homepage
+2025-12-21 13:03:19,860 | INFO | Typing search query
+2025-12-21 13:03:53,106 | INFO | Found 5 products
+2025-12-21 13:03:53,303 | INFO | Opening product 1
+2025-12-21 13:04:46,632 | ERROR | HARD STOP: Exception: Message: stale element reference: stale element not found
+  (Session info: chrome=143.0.7499.148); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb712d3
+	0xb71314
+	0x95e6dd
+	0x9708e6
+	0x96f9cc
+	0x965dbf
+	0x965ea3
+	0x964280
+	0x967951
+	0x9ee9fa
+	0x9cb4ec
+	0x9edb13
+	0x9cb2e6
+	0x99d321
+	0x99e1d4
+	0xdc5314
+	0xdc08cb
+	0xddd1aa
+	0xb8b1d8
+	0xb931dd
+	0xb795d8
+	0xb79799
+	0xb63b28
+	0x761700c9
+	0x776e7b4e
+	0x776e7b1e
+
+2025-12-21 13:04:54,008 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022FC8021450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/db0e2415fa5962393888ae0bf003c03d
+2025-12-21 13:04:58,096 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022FC8022AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/db0e2415fa5962393888ae0bf003c03d
+2025-12-21 13:05:02,164 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022FC802D5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/db0e2415fa5962393888ae0bf003c03d
+2025-12-21 13:25:45,817 | INFO | ====== WebDriver manager ======
+2025-12-21 13:25:59,879 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 13:26:01,409 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 13:26:02,514 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 13:26:07,540 | INFO | Opening Amazon homepage
+2025-12-21 13:26:17,527 | INFO | Continue shopping button detected
+2025-12-21 13:26:33,332 | INFO | Typing search query
+2025-12-21 14:17:03,077 | INFO | ====== WebDriver manager ======
+2025-12-21 14:17:05,298 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 14:17:06,708 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 14:17:07,414 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 14:17:21,362 | INFO | Opening Amazon homepage
+2025-12-21 14:17:30,924 | INFO | Continue shopping button detected
+2025-12-21 14:17:45,605 | INFO | Typing search query
+2025-12-21 14:26:00,559 | INFO | ====== WebDriver manager ======
+2025-12-21 14:26:06,117 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 14:26:08,234 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 14:26:09,181 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 14:26:22,405 | INFO | Opening Amazon homepage
+2025-12-21 14:26:31,290 | INFO | Continue shopping button detected
+2025-12-21 14:26:47,504 | INFO | Typing search query
+2025-12-21 14:27:36,902 | INFO | Collected 5 product URLs
+2025-12-21 14:27:36,902 | INFO | Opening product 1
+2025-12-21 14:28:29,951 | INFO | Opening product 2
+2025-12-21 14:29:17,018 | INFO | Opening product 3
+2025-12-21 14:30:11,965 | INFO | Opening product 4
+2025-12-21 14:30:55,721 | INFO | Opening product 5
+2025-12-21 14:31:52,201 | INFO | Saved 5 products to output.json
+2025-12-21 16:47:00,181 | INFO | ====== WebDriver manager ======
+2025-12-21 16:47:06,664 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 16:47:07,580 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 16:47:08,137 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 16:47:26,361 | INFO | Opening Amazon homepage
+2025-12-21 16:47:34,923 | INFO | Continue shopping button detected
+2025-12-21 16:47:44,684 | INFO | Typing search query
+2025-12-21 16:48:18,319 | INFO | Saved 5 products to output.json
+2025-12-21 17:01:53,638 | INFO | ====== WebDriver manager ======
+2025-12-21 17:02:04,996 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:02:05,944 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:02:06,492 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 17:02:21,774 | INFO | Opening Amazon homepage
+2025-12-21 17:02:28,611 | INFO | Continue shopping button detected
+2025-12-21 17:02:39,467 | INFO | Typing search query
+2025-12-21 17:03:16,677 | INFO | Saved 5 products to output.json
+2025-12-21 17:06:42,955 | INFO | ====== WebDriver manager ======
+2025-12-21 17:06:52,739 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:06:53,537 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:06:54,110 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 17:06:59,095 | INFO | Opening Amazon homepage
+2025-12-21 17:07:07,343 | INFO | Continue shopping button detected
+2025-12-21 17:07:13,360 | INFO | Typing search query
+2025-12-21 17:07:41,035 | INFO | Saved 5 products to output.json
+2025-12-21 17:30:35,391 | INFO | ====== WebDriver manager ======
+2025-12-21 17:30:49,415 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:30:50,808 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:30:51,930 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 17:31:05,926 | INFO | Opening Amazon homepage
+2025-12-21 17:31:23,846 | INFO | Typing search query
+2025-12-21 17:31:54,290 | INFO | Saved 5 products to output.json
+2025-12-21 17:38:56,956 | INFO | ====== WebDriver manager ======
+2025-12-21 17:38:59,082 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:39:00,472 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-21 17:39:01,466 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-21 17:39:03,495 | INFO | Opening Amazon homepage
+2025-12-21 17:39:13,591 | INFO | Continue shopping button detected
+2025-12-21 17:39:21,472 | INFO | Typing search query
+2025-12-21 17:39:52,035 | INFO | Saved 5 products to output.json
+2025-12-22 19:48:11,404 | INFO | ====== WebDriver manager ======
+2025-12-22 19:48:17,834 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-22 19:48:25,712 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-22 19:48:27,242 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-22 19:48:33,798 | INFO | WebDriver version 143.0.7499.169 selected
+2025-12-22 19:48:33,827 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-22 19:48:33,828 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-22 19:48:34,870 | INFO | Driver downloading response is 200
+2025-12-22 19:48:37,129 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-22 19:48:39,686 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+2025-12-22 19:48:57,417 | INFO | Opening Flipkart homepage
+2025-12-22 19:49:15,022 | INFO | Typing search query
+2025-12-22 19:49:49,312 | INFO | Saved 5 products to output.json

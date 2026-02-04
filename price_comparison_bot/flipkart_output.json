@@ -1,0 +1,57 @@
+{
+  "session": {
+    "search_query": "iPhone 16 Pro",
+    "search_time": "2026-02-04T07:45:49.298894",
+    "marketplace": "flipkart.com"
+  },
+  "best_product": {
+    "title": "Apple iPhone 16 Pro (Desert Titanium, 256 GB)",
+    "price": "119900",
+    "rating": null,
+    "url": "https://www.flipkart.com/apple-iphone-16-pro-desert-titanium-256-gb/p/itm4f25cec0bd003",
+    "source": "search_card",
+    "timestamp": "2026-02-04T07:46:24.318135"
+  },
+  "all_products": [
+    {
+      "title": "Apple iPhone 16 Pro (Desert Titanium, 256 GB)",
+      "price": "119900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-16-pro-desert-titanium-256-gb/p/itm4f25cec0bd003",
+      "source": "search_card",
+      "timestamp": "2026-02-04T07:46:24.318135"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (Black Titanium, 128 GB)",
+      "price": "109900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-16-pro-black-titanium-128-gb/p/itm12f97adb4c5ed",
+      "source": "search_card",
+      "timestamp": "2026-02-04T07:46:26.239389"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (White Titanium, 256 GB)",
+      "price": "119900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-16-pro-white-titanium-256-gb/p/itm35f749ba5d1ea",
+      "source": "search_card",
+      "timestamp": "2026-02-04T07:46:28.086778"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (Black Titanium, 256 GB)",
+      "price": "119900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-16-pro-black-titanium-256-gb/p/itm9ce88307f4033",
+      "source": "search_card",
+      "timestamp": "2026-02-04T07:46:30.346731"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (Desert Titanium, 128 GB)",
+      "price": "109900",
+      "rating": null,
+      "url": "https://www.flipkart.com/apple-iphone-16-pro-desert-titanium-128-gb/p/itm5a8453e89cbd4",
+      "source": "search_card",
+      "timestamp": "2026-02-04T07:46:32.395451"
+    }
+  ]
+}

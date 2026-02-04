@@ -1,0 +1,34 @@
+{
+  "session": {
+    "search_query": "iPhone 16 Pro",
+    "search_time": "2026-02-04T07:47:52.328680+00:00",
+    "marketplace": "reliancedigital.in"
+  },
+  "products": [
+    {
+      "title": "Apple iPhone 16 Pro 256 GB, Natural Titanium",
+      "price": "119900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-16-pro-256-gb-natural-titanium-m0xrez-8590156?internal_source=search_results"
+    },
+    {
+      "title": "Apple iPhone 16 Pro 512 GB, Natural Titanium",
+      "price": "139900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-16-pro-512-gb-natural-titanium-m0xrez-8590157?internal_source=search_results"
+    },
+    {
+      "title": "Apple iPhone 16 Pro Max 256 GB, White Titanium",
+      "price": "134900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-16-pro-max-256-gb-white-titanium-m0xqp8-8590112?internal_source=search_results"
+    },
+    {
+      "title": "Apple iPhone 16 Pro 128 GB, Black Titanium",
+      "price": "109900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-16-pro-128-gb-black-titanium-m0xr9d-8590152?internal_source=search_results"
+    },
+    {
+      "title": "Apple iPhone 16 Pro 256 GB, Black Titanium",
+      "price": "119900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-16-pro-256-gb-black-titanium-m0xrrg-8590260?internal_source=search_results"
+    }
+  ]
+}

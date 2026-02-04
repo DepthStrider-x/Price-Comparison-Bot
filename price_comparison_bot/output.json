@@ -1,0 +1,57 @@
+{
+  "session": {
+    "search_query": "i phone 17",
+    "search_time": "2026-02-04T05:49:14.583432",
+    "marketplace": "amazon.in"
+  },
+  "best_product": {
+    "title": "iPhone 17 Pro Max 2 TB: 17.42 cm (6.9″) Display with Promotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Silver",
+    "price": "2,29,900.00",
+    "rating": "",
+    "url": "https://www.amazon.in/iPhone-17-Pro-Max-Promotion/dp/B0FQF9ZLD7",
+    "source": "search_card",
+    "timestamp": "2026-02-04T05:49:48.825180"
+  },
+  "all_products": [
+    {
+      "title": "OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 | 7300mAh Battery | Personalised AI | Game-Changing 165Hz Display | Triple 50MP Camera with 4K 120fps Dolby Vision",
+      "price": "72,999.00",
+      "rating": "",
+      "url": null,
+      "source": "search_card",
+      "timestamp": "2026-02-04T05:49:44.628664"
+    },
+    {
+      "title": "OnePlus 15R | 12GB+256GB | Charcoal Black | World's First Snapdragon® 8 Gen 5 | 7400mAh Battery | Personalised AI | Game-Changing 165Hz Display | IP68 IP69 IP66 & IP69K | 4K 120fps Video",
+      "price": "47,998.00",
+      "rating": "",
+      "url": null,
+      "source": "search_card",
+      "timestamp": "2026-02-04T05:49:46.601654"
+    },
+    {
+      "title": "iPhone 17 Pro Max 2 TB: 17.42 cm (6.9″) Display with Promotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Silver",
+      "price": "2,29,900.00",
+      "rating": "",
+      "url": "https://www.amazon.in/iPhone-17-Pro-Max-Promotion/dp/B0FQF9ZLD7",
+      "source": "search_card",
+      "timestamp": "2026-02-04T05:49:48.825180"
+    },
+    {
+      "title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange",
+      "price": "1,34,900.00",
+      "rating": "",
+      "url": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF",
+      "source": "search_card",
+      "timestamp": "2026-02-04T05:49:51.184732"
+    },
+    {
+      "title": "iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange",
+      "price": "1,54,900.00",
+      "rating": "",
+      "url": "https://www.amazon.in/iPhone-Pro-512-Promotion-Breakthrough/dp/B0FQFQF6D1",
+      "source": "search_card",
+      "timestamp": "2026-02-04T05:49:54.081453"
+    }
+  ]
+}

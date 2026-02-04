@@ -1,0 +1,49 @@
+{
+  "session": {
+    "search_query": "iphone 17",
+    "search_time": "2026-01-10T12:58:49.738755+00:00",
+    "marketplace": "croma.com"
+  },
+  "products": [
+    {
+      "title": "Apple iPhone 17 (256GB, Sage)",
+      "price": "82900.00",
+      "mrp": "82900.00",
+      "link": "https://www.croma.com/apple-iphone-17-256gb-sage-/p/317403",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317403_0_Bt7N_CF2f.png?updatedAt=1757529455765",
+      "normalized_model": "iphone_17"
+    },
+    {
+      "title": "Apple iPhone 17 (256GB, Black)",
+      "price": "82900.00",
+      "mrp": "82900.00",
+      "link": "https://www.croma.com/apple-iphone-17-256gb-black-/p/317396",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317396_0_Hd1wKDBH9.png?updatedAt=1757527018080",
+      "normalized_model": "iphone_17"
+    },
+    {
+      "title": "Apple iPhone 17 (256GB, Lavender)",
+      "price": "82900.00",
+      "mrp": "82900.00",
+      "link": "https://www.croma.com/apple-iphone-17-256gb-lavender-/p/317401",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317401_0_4W1uManyDD.png?updatedAt=1757527304654",
+      "normalized_model": "iphone_17"
+    },
+    {
+      "title": "Apple iPhone 17 (256GB, White)",
+      "price": "82900.00",
+      "mrp": "82900.00",
+      "link": "https://www.croma.com/apple-iphone-17-256gb-white-/p/317398",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317398_0_m-WVpWSKl.png?updatedAt=1757527159495",
+      "normalized_model": "iphone_17"
+    },
+    {
+      "title": "Apple iPhone 17 (512GB, Black)",
+      "price": "102900.00",
+      "mrp": "102900.00",
+      "link": "https://www.croma.com/apple-iphone-17-512gb-black-/p/317405",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317405_0_hPC4kPuA7.png?updatedAt=1757574431283",
+      "normalized_model": "iphone_17"
+    }
+  ]
+}

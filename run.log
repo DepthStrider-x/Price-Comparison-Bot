@@ -1,0 +1,8 @@
+2026-02-04 11:54:46,103 | INFO | ====== WebDriver manager ======
+2026-02-04 11:54:47,081 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:54:47,605 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:54:48,103 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 13:02:23,980 | INFO | ====== WebDriver manager ======
+2026-02-04 13:02:24,937 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 13:02:25,483 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 13:02:26,001 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache

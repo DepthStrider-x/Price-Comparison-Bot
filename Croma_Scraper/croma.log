@@ -1,0 +1,9 @@
+2026-01-10 18:28:48,219 | INFO | ===== Croma API Scraper Started =====
+2026-01-10 18:28:48,236 | INFO | Calling Croma API for query: 'iphone 17'
+2026-01-10 18:28:49,737 | INFO | Parsed product: Apple iPhone 17 (256GB, Sage)
+2026-01-10 18:28:49,737 | INFO | Parsed product: Apple iPhone 17 (256GB, Black)
+2026-01-10 18:28:49,737 | INFO | Parsed product: Apple iPhone 17 (256GB, Lavender)
+2026-01-10 18:28:49,738 | INFO | Parsed product: Apple iPhone 17 (256GB, White)
+2026-01-10 18:28:49,738 | INFO | Parsed product: Apple iPhone 17 (512GB, Black)
+2026-01-10 18:28:49,741 | INFO | Saved 5 products → croma_output.json
+2026-01-10 18:28:49,741 | INFO | ===== Scraper Finished =====

@@ -1,0 +1,34 @@
+{
+  "session": {
+    "search_query": "iphone 17",
+    "search_time": "2026-01-02T16:14:18.285709+00:00",
+    "marketplace": "reliancedigital.in"
+  },
+  "products": [
+    {
+      "title": "Apple iPhone 17 256 GB, Black",
+      "price": "82900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-17-256-gb-black-mff8ru-9391619?internal_source=search_collection"
+    },
+    {
+      "title": "Apple iPhone 17 256 GB, White",
+      "price": "82900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-17-256-gb-white-mff8s2-9391633?internal_source=search_collection"
+    },
+    {
+      "title": "Apple iPhone 17 256 GB, Mist Blue",
+      "price": "82900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-17-256-gb-mist-blue-mff8s5-9391645?internal_source=search_collection"
+    },
+    {
+      "title": "Apple iPhone 17 256 GB, Lavender",
+      "price": "82900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-17-256-gb-lavender-mff8ry-9391624?internal_source=search_collection"
+    },
+    {
+      "title": "Apple iPhone 17 256 GB, Sage",
+      "price": "82900.00",
+      "link": "https://www.reliancedigital.in/product/apple-iphone-17-256-gb-sage-mff8s3-9391641?internal_source=search_collection"
+    }
+  ]
+}

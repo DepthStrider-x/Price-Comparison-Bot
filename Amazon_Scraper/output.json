@@ -1,0 +1,57 @@
+{
+  "session": {
+    "search_query": "I phone 17 pro",
+    "search_time": "2025-12-21T12:09:03.495701",
+    "marketplace": "amazon.in"
+  },
+  "best_product": {
+    "title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange",
+    "price": "1,34,900.00",
+    "rating": "",
+    "url": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF",
+    "source": "search_card",
+    "timestamp": "2025-12-21T12:09:46.828143"
+  },
+  "all_products": [
+    {
+      "title": "Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Gray, 12GB RAM, 512GB Storage), 200MP Camera, S Pen Included, Long Battery Life",
+      "price": "1,41,999.00",
+      "rating": "",
+      "url": null,
+      "source": "search_card",
+      "timestamp": "2025-12-21T12:09:42.339836"
+    },
+    {
+      "title": "Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography",
+      "price": "17,499.00",
+      "rating": "",
+      "url": null,
+      "source": "search_card",
+      "timestamp": "2025-12-21T12:09:44.111676"
+    },
+    {
+      "title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange",
+      "price": "1,34,900.00",
+      "rating": "",
+      "url": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF",
+      "source": "search_card",
+      "timestamp": "2025-12-21T12:09:46.828143"
+    },
+    {
+      "title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Deep Blue",
+      "price": "1,34,900.00",
+      "rating": "",
+      "url": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQFYYPZF",
+      "source": "search_card",
+      "timestamp": "2025-12-21T12:09:49.677508"
+    },
+    {
+      "title": "iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange",
+      "price": "1,54,900.00",
+      "rating": "",
+      "url": "https://www.amazon.in/iPhone-Pro-512-Promotion-Breakthrough/dp/B0FQFQF6D1",
+      "source": "search_card",
+      "timestamp": "2025-12-21T12:09:52.032661"
+    }
+  ]
+}

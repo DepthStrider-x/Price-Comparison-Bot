@@ -1,0 +1,143 @@
+2026-02-04 11:18:48,143 | INFO | ====== WebDriver manager ======
+2026-02-04 11:18:56,506 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:18:58,058 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:18:58,609 | INFO | There is no [win64] chromedriver "144.0.7559.133" for browser google-chrome "144.0.7559" in cache
+2026-02-04 11:18:58,609 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:19:01,778 | INFO | WebDriver version 144.0.7559.133 selected
+2026-02-04 11:19:01,789 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:19:01,789 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:19:02,677 | INFO | Driver downloading response is 200
+2026-02-04 11:19:04,938 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:19:05,706 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-04 11:19:14,583 | INFO | Opening Amazon homepage
+2026-02-04 11:19:31,761 | INFO | Typing search query
+2026-02-04 11:19:54,085 | INFO | Saved 5 products to output.json
+2026-02-04 11:19:58,555 | INFO | ====== WebDriver manager ======
+2026-02-04 11:19:59,818 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:20:00,440 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:20:01,032 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 11:29:03,748 | INFO | ====== WebDriver manager ======
+2026-02-04 11:29:04,842 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:29:05,405 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:29:06,198 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 11:29:08,793 | INFO | ====== WebDriver manager ======
+2026-02-04 11:29:09,756 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:29:10,339 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:29:10,901 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 11:31:27,838 | INFO | ====== WebDriver manager ======
+2026-02-04 11:31:28,797 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:31:29,358 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:31:29,915 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 11:31:32,504 | INFO | ====== WebDriver manager ======
+2026-02-04 11:31:33,426 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:31:33,980 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:31:34,522 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 11:36:14,735 | INFO | ====== WebDriver manager ======
+2026-02-04 11:36:15,815 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:36:16,425 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:36:16,984 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:36:18,267 | INFO | WebDriver version 144.0.7559.133 selected
+2026-02-04 11:36:18,279 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:36:18,279 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:36:18,786 | INFO | Driver downloading response is 200
+2026-02-04 11:36:21,041 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:36:21,751 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-04 11:36:32,839 | INFO | Opening Amazon homepage
+2026-02-04 11:36:48,929 | INFO | Typing search query
+2026-02-04 11:37:11,626 | INFO | Saved 5 products to amazon_output.json
+2026-02-04 11:37:14,525 | INFO | ====== WebDriver manager ======
+2026-02-04 11:37:15,455 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:37:16,067 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:37:16,600 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 11:42:52,136 | INFO | ====== WebDriver manager ======
+2026-02-04 11:42:53,179 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:42:53,739 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:42:54,271 | INFO | There is no [win64] chromedriver "144.0.7559.133" for browser google-chrome "144.0.7559" in cache
+2026-02-04 11:42:54,272 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:42:55,582 | INFO | WebDriver version 144.0.7559.133 selected
+2026-02-04 11:42:55,595 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:42:55,595 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:42:56,065 | INFO | Driver downloading response is 200
+2026-02-04 11:43:00,289 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:43:01,025 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-04 11:43:02,868 | INFO | Opening Amazon homepage
+2026-02-04 11:43:18,018 | INFO | Typing search query
+2026-02-04 11:43:42,335 | INFO | Saved 5 products to amazon_output.json
+2026-02-04 11:43:45,118 | INFO | ====== WebDriver manager ======
+2026-02-04 11:43:46,076 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:43:46,649 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:43:47,186 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 11:43:49,108 | INFO | Opening Flipkart homepage
+2026-02-04 11:44:07,613 | ERROR | HARD STOP: Risk detected on homepage
+2026-02-04 11:44:13,920 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B280D2210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8282e54d566b85179c1a51d3ec525706
+2026-02-04 11:44:17,969 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B280D1590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8282e54d566b85179c1a51d3ec525706
+2026-02-04 11:44:22,026 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019B280E95B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8282e54d566b85179c1a51d3ec525706
+2026-02-04 11:51:26,712 | INFO | ====== WebDriver manager ======
+2026-02-04 11:51:27,620 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:51:28,145 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:51:28,696 | INFO | There is no [win64] chromedriver "144.0.7559.133" for browser google-chrome "144.0.7559" in cache
+2026-02-04 11:51:28,696 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:51:30,014 | INFO | WebDriver version 144.0.7559.133 selected
+2026-02-04 11:51:30,026 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:51:30,026 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 11:51:30,454 | INFO | Driver downloading response is 200
+2026-02-04 11:51:34,930 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:51:35,653 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-04 11:51:37,620 | INFO | Opening Amazon homepage
+2026-02-04 11:51:54,365 | INFO | Typing search query
+2026-02-04 11:52:21,302 | INFO | Saved 5 products to amazon_output.json
+2026-02-04 11:52:29,258 | INFO | ====== WebDriver manager ======
+2026-02-04 11:52:30,272 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:52:30,796 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 11:52:31,357 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 12:42:59,490 | INFO | ====== WebDriver manager ======
+2026-02-04 12:43:12,181 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 12:43:12,766 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 12:43:13,334 | INFO | There is no [win64] chromedriver "144.0.7559.133" for browser google-chrome "144.0.7559" in cache
+2026-02-04 12:43:13,334 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 12:43:14,606 | INFO | WebDriver version 144.0.7559.133 selected
+2026-02-04 12:43:14,618 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 12:43:14,619 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-04 12:43:15,189 | INFO | Driver downloading response is 200
+2026-02-04 12:43:23,740 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 12:43:24,482 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-04 12:43:39,089 | INFO | Opening Flipkart homepage
+2026-02-04 12:43:57,137 | ERROR | HARD STOP: Risk detected on homepage
+2026-02-04 12:44:03,605 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021A211B1450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0fc90e4a82c8906355db73d4d85e20c
+2026-02-04 12:44:07,688 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021A211B1F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0fc90e4a82c8906355db73d4d85e20c
+2026-02-04 12:44:11,808 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021A211C8FC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0fc90e4a82c8906355db73d4d85e20c
+2026-02-04 12:44:16,493 | INFO | ====== WebDriver manager ======
+2026-02-04 12:44:17,515 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 12:44:18,166 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-04 12:44:19,156 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-04 12:54:01,998 | INFO | Opening Flipkart homepage
+2026-02-04 12:54:19,763 | ERROR | HARD STOP: Risk detected on homepage
+2026-02-04 12:54:26,174 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002931718CA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b1b47cfffd9392006bf722c290ef19d5
+2026-02-04 12:54:30,245 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002931718C7D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b1b47cfffd9392006bf722c290ef19d5
+2026-02-04 12:54:34,306 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002931707B5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b1b47cfffd9392006bf722c290ef19d5
+2026-02-04 12:54:40,645 | INFO | Opening Amazon homepage
+2026-02-04 12:54:54,759 | INFO | Typing search query
+2026-02-04 12:55:20,563 | INFO | Saved 5 products to amazon_output.json
+2026-02-04 13:01:36,688 | INFO | Opening Flipkart homepage
+2026-02-04 13:01:56,748 | ERROR | HARD STOP: Risk detected on homepage
+2026-02-04 13:02:04,118 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4CCBE8B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e815b153662427ed167bd0048778e098
+2026-02-04 13:02:08,189 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4CCBE8690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e815b153662427ed167bd0048778e098
+2026-02-04 13:02:12,224 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4CCADB5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e815b153662427ed167bd0048778e098
+2026-02-04 13:04:37,300 | INFO | Opening Flipkart homepage
+2026-02-04 13:04:54,444 | INFO | Typing search query
+2026-02-04 13:05:24,376 | INFO | Saved 5 products to flipkart_output.json
+2026-02-04 13:05:33,761 | INFO | Opening Amazon homepage
+2026-02-04 13:05:47,421 | INFO | Typing search query
+2026-02-04 13:06:15,404 | INFO | Saved 5 products to amazon_output.json
+2026-02-04 13:10:04,411 | INFO | Opening Flipkart homepage
+2026-02-04 13:10:21,366 | INFO | Typing search query
+2026-02-04 13:10:50,431 | INFO | Saved 5 products to flipkart_output.json
+2026-02-04 13:10:59,867 | INFO | Opening Amazon homepage
+2026-02-04 13:11:12,755 | INFO | Typing search query
+2026-02-04 13:11:40,766 | INFO | Saved 5 products to amazon_output.json
+2026-02-04 13:15:49,298 | INFO | Opening Flipkart homepage
+2026-02-04 13:16:05,524 | INFO | Typing search query
+2026-02-04 13:16:32,397 | INFO | Saved 5 products to flipkart_output.json
+2026-02-04 13:16:41,652 | INFO | Opening Amazon homepage
+2026-02-04 13:16:58,137 | INFO | Typing search query
+2026-02-04 13:17:23,692 | INFO | Saved 5 products to amazon_output.json

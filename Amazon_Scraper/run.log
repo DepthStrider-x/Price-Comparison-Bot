@@ -1,0 +1,22 @@
+2025-12-16 21:56:17,244 | INFO | ====== WebDriver manager ======
+2025-12-16 21:57:09,750 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-16 21:57:13,623 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-16 21:57:15,509 | INFO | There is no [win64] chromedriver "143.0.7499.42" for browser google-chrome "143.0.7499" in cache
+2025-12-16 21:57:15,510 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-16 21:57:18,220 | INFO | WebDriver version 143.0.7499.42 selected
+2025-12-16 21:57:18,251 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+2025-12-16 21:57:18,252 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+2025-12-16 21:57:19,597 | INFO | Driver downloading response is 200
+2025-12-16 21:57:21,855 | INFO | Get LATEST chromedriver version for google-chrome
+2025-12-16 21:57:31,227 | INFO | Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.42]
+2025-12-16 21:58:11,016 | INFO | Opening Amazon homepage
+2025-12-16 21:58:27,982 | ERROR | HARD STOP: Risk detected on homepage
+2026-01-10 21:50:40,584 | INFO | ====== WebDriver manager ======
+2026-01-10 21:50:46,392 | INFO | Get LATEST chromedriver version for google-chrome
+2026-01-10 21:51:16,439 | INFO | ====== WebDriver manager ======
+2026-01-10 21:51:18,853 | INFO | Get LATEST chromedriver version for google-chrome
+2026-01-10 21:51:20,643 | INFO | Get LATEST chromedriver version for google-chrome
+2026-01-10 21:51:27,449 | INFO | Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-10 21:51:30,442 | INFO | Opening Amazon homepage
+2026-01-10 21:51:47,550 | INFO | Typing search query
+2026-01-10 21:52:07,273 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028982802210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/afa3c54e0837ab1be7756d4fd823df96

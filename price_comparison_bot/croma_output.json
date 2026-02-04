@@ -1,0 +1,49 @@
+{
+  "session": {
+    "search_query": "iPhone 16 Pro",
+    "search_time": "2026-02-04T07:48:01.059356+00:00",
+    "marketplace": "croma.com"
+  },
+  "products": [
+    {
+      "title": "Apple iPhone 16 Pro (256GB, Desert Titanium)",
+      "price": "113490.00",
+      "mrp": "119900.00",
+      "link": "https://www.croma.com/apple-iphone-16-pro-256gb-desert-titanium-/p/309731",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/309731_0_yooz4b.png",
+      "normalized_model": "iphone_17_pro"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (128GB, Desert Titanium)",
+      "price": "103990.00",
+      "mrp": "109900.00",
+      "link": "https://www.croma.com/apple-iphone-16-pro-128gb-desert-titanium-/p/309727",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/309727_0_eo6w3f.png",
+      "normalized_model": "iphone_17_pro"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (256GB, Black Titanium)",
+      "price": "113490.00",
+      "mrp": "119900.00",
+      "link": "https://www.croma.com/apple-iphone-16-pro-256gb-black-titanium-/p/309729",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/309729_0_mnt0xu.png",
+      "normalized_model": "iphone_17_pro"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (128GB, Black Titanium)",
+      "price": "103990.00",
+      "mrp": "109900.00",
+      "link": "https://www.croma.com/apple-iphone-16-pro-128gb-black-titanium-/p/309725",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/309725_0_fk5km3.png",
+      "normalized_model": "iphone_17_pro"
+    },
+    {
+      "title": "Apple iPhone 16 Pro (256GB, White Titanium)",
+      "price": "113490.00",
+      "mrp": "119900.00",
+      "link": "https://www.croma.com/apple-iphone-16-pro-256gb-white-titanium-/p/309730",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/309730_0_zf9qar.png",
+      "normalized_model": "iphone_17_pro"
+    }
+  ]
+}

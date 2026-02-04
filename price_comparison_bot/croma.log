@@ -1,0 +1,144 @@
+2026-02-04 11:20:03,785 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 11:20:03,820 | INFO | Calling Croma API for query: 'i phone 17'
+2026-02-04 11:20:04,835 | INFO | Parsed product: Apple iPhone 17 (256GB, Black)
+2026-02-04 11:20:04,836 | INFO | Parsed product: Apple iPhone 17 (256GB, White)
+2026-02-04 11:20:04,836 | INFO | Parsed product: Apple iPhone 17 (256GB, Lavender)
+2026-02-04 11:20:04,837 | INFO | Parsed product: Apple iPhone 17 (256GB, Sage)
+2026-02-04 11:20:04,837 | INFO | Parsed product: Apple iPhone 17 (512GB, Black)
+2026-02-04 11:20:04,839 | INFO | Saved 5 products → croma_output.json
+2026-02-04 11:20:04,840 | INFO | ===== Scraper Finished =====
+2026-02-04 11:29:13,291 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 11:29:13,324 | INFO | Calling Croma API for query: 'iPhone 17'
+2026-02-04 11:29:13,963 | INFO | Parsed product: Apple iPhone 17 (256GB, Black)
+2026-02-04 11:29:13,963 | INFO | Parsed product: Apple iPhone 17 (256GB, White)
+2026-02-04 11:29:13,963 | INFO | Parsed product: Apple iPhone 17 (256GB, Lavender)
+2026-02-04 11:29:13,964 | INFO | Parsed product: Apple iPhone 17 (256GB, Sage)
+2026-02-04 11:29:13,964 | INFO | Parsed product: Apple iPhone 17 (512GB, Black)
+2026-02-04 11:29:13,966 | INFO | Saved 5 products → croma_output.json
+2026-02-04 11:29:13,967 | INFO | ===== Scraper Finished =====
+2026-02-04 11:31:36,929 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 11:31:36,929 | INFO | Calling Croma API for query: 'iPhone 17'
+2026-02-04 11:31:37,376 | INFO | Parsed product: Apple iPhone 17 (256GB, Black)
+2026-02-04 11:31:37,377 | INFO | Parsed product: Apple iPhone 17 (256GB, White)
+2026-02-04 11:31:37,377 | INFO | Parsed product: Apple iPhone 17 (256GB, Lavender)
+2026-02-04 11:31:37,377 | INFO | Parsed product: Apple iPhone 17 (256GB, Sage)
+2026-02-04 11:31:37,377 | INFO | Parsed product: Apple iPhone 17 (512GB, Black)
+2026-02-04 11:31:37,378 | INFO | Saved 5 products → croma_output.json
+2026-02-04 11:31:37,378 | INFO | ===== Scraper Finished =====
+2026-02-04 11:37:19,014 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 11:37:19,014 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 11:37:19,834 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 11:37:19,835 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 11:37:19,835 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 11:37:19,835 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 11:37:19,836 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 11:37:19,838 | INFO | Saved 5 products → croma_output.json
+2026-02-04 11:37:19,838 | INFO | ===== Scraper Finished =====
+2026-02-04 11:44:26,545 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 11:44:26,545 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 11:44:26,985 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 11:44:26,986 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 11:44:26,986 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 11:44:26,986 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 11:44:26,986 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 11:44:26,987 | INFO | Saved 5 products → croma_output.json
+2026-02-04 11:44:26,988 | INFO | ===== Scraper Finished =====
+2026-02-04 11:52:33,843 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 11:52:33,866 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 11:52:34,347 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 11:52:34,348 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 11:52:34,349 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 11:52:34,349 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 11:52:34,349 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 11:52:34,351 | INFO | Saved 5 products → croma_output.json
+2026-02-04 11:52:34,352 | INFO | ===== Scraper Finished =====
+2026-02-04 12:27:29,269 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 12:27:29,276 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 12:27:30,234 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 12:27:30,234 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 12:27:30,235 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 12:27:30,235 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 12:27:30,235 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 12:27:30,237 | INFO | Saved 5 products → croma_output.json
+2026-02-04 12:27:30,237 | INFO | ===== Scraper Finished =====
+2026-02-04 12:29:09,562 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 12:29:09,563 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 12:29:10,004 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 12:29:10,005 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 12:29:10,005 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 12:29:10,006 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 12:29:10,006 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 12:29:10,008 | INFO | Saved 5 products → croma_output.json
+2026-02-04 12:29:10,008 | INFO | ===== Scraper Finished =====
+2026-02-04 12:35:31,449 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 12:35:31,492 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 12:35:32,814 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 12:35:32,815 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 12:35:32,815 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 12:35:32,815 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 12:35:32,816 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 12:35:32,818 | INFO | Saved 5 products → croma_output.json
+2026-02-04 12:35:32,819 | INFO | ===== Scraper Finished =====
+2026-02-04 12:38:11,049 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 12:38:11,050 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 12:38:11,613 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 12:38:11,613 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 12:38:11,614 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 12:38:11,614 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 12:38:11,614 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 12:38:11,636 | INFO | Saved 5 products → croma_output.json
+2026-02-04 12:38:11,636 | INFO | ===== Scraper Finished =====
+2026-02-04 12:39:26,578 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 12:39:26,579 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 12:39:27,039 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 12:39:27,039 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 12:39:27,040 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 12:39:27,040 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 12:39:27,040 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 12:39:27,042 | INFO | Saved 5 products → croma_output.json
+2026-02-04 12:39:27,043 | INFO | ===== Scraper Finished =====
+2026-02-04 12:44:36,601 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 12:44:36,602 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 12:44:37,104 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 12:44:37,105 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 12:44:37,105 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 12:44:37,105 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 12:44:37,105 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 12:44:37,108 | INFO | Saved 5 products → croma_output.json
+2026-02-04 12:44:37,109 | INFO | ===== Scraper Finished =====
+2026-02-04 12:55:59,116 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 12:55:59,116 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 12:55:59,813 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 12:55:59,813 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 12:55:59,814 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 12:55:59,814 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 12:55:59,814 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 12:55:59,817 | INFO | Saved 5 products → croma_output.json
+2026-02-04 12:55:59,817 | INFO | ===== Scraper Finished =====
+2026-02-04 13:06:59,470 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 13:06:59,471 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 13:07:00,064 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 13:07:00,064 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 13:07:00,064 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 13:07:00,065 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 13:07:00,065 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 13:07:00,066 | INFO | Saved 5 products → croma_output.json
+2026-02-04 13:07:00,066 | INFO | ===== Scraper Finished =====
+2026-02-04 13:12:17,325 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 13:12:17,325 | INFO | Calling Croma API for query: 'iPhone 17 Pro'
+2026-02-04 13:12:17,842 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Silver)
+2026-02-04 13:12:17,843 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Cosmic Orange)
+2026-02-04 13:12:17,843 | INFO | Parsed product: Apple iPhone 17 Pro (256GB, Deep Blue)
+2026-02-04 13:12:17,843 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Deep Blue)
+2026-02-04 13:12:17,843 | INFO | Parsed product: Apple iPhone 17 Pro (512GB, Cosmic Orange)
+2026-02-04 13:12:17,847 | INFO | Saved 5 products → croma_output.json
+2026-02-04 13:12:17,848 | INFO | ===== Scraper Finished =====
+2026-02-04 13:18:00,112 | INFO | ===== Croma API Scraper Started =====
+2026-02-04 13:18:00,113 | INFO | Calling Croma API for query: 'iPhone 16 Pro'
+2026-02-04 13:18:01,058 | INFO | Parsed product: Apple iPhone 16 Pro (256GB, Desert Titanium)
+2026-02-04 13:18:01,058 | INFO | Parsed product: Apple iPhone 16 Pro (128GB, Desert Titanium)
+2026-02-04 13:18:01,059 | INFO | Parsed product: Apple iPhone 16 Pro (256GB, Black Titanium)
+2026-02-04 13:18:01,059 | INFO | Parsed product: Apple iPhone 16 Pro (128GB, Black Titanium)
+2026-02-04 13:18:01,059 | INFO | Parsed product: Apple iPhone 16 Pro (256GB, White Titanium)
+2026-02-04 13:18:01,060 | INFO | Saved 5 products → croma_output.json
+2026-02-04 13:18:01,060 | INFO | ===== Scraper Finished =====

@@ -1,0 +1,14 @@
+2026-01-02 21:43:39,556 | INFO | ===== Reliance Digital Scraper Started =====
+2026-01-02 21:43:44,371 | INFO | Chrome driver initialized
+2026-01-02 21:43:44,372 | INFO | Opening homepage: https://www.reliancedigital.in/
+2026-01-02 21:44:07,820 | INFO | Search triggered for query: 'iphone 17'
+2026-01-02 21:44:13,089 | INFO | Product cards detected: 10
+2026-01-02 21:44:16,106 | INFO | Parsed product 1: Apple iPhone 17 256 GB, Black
+2026-01-02 21:44:16,242 | INFO | Parsed product 2: Apple iPhone 17 256 GB, White
+2026-01-02 21:44:18,018 | INFO | Parsed product 3: Apple iPhone 17 256 GB, Mist Blue
+2026-01-02 21:44:18,155 | INFO | Parsed product 4: Apple iPhone 17 256 GB, Lavender
+2026-01-02 21:44:18,285 | INFO | Parsed product 5: Apple iPhone 17 256 GB, Sage
+2026-01-02 21:44:18,285 | INFO | Total products scraped: 5
+2026-01-02 21:44:18,493 | INFO | Results saved → reliance_digital_output.json
+2026-01-02 21:44:24,797 | INFO | Browser closed cleanly
+2026-01-02 21:44:24,798 | INFO | ===== Scraper Finished =====

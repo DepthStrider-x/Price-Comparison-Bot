@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Apple iPhone 16 Pro (256GB, Desert Titanium)",
+    "price": "113490.00",
+    "url": "https://www.croma.com/apple-iphone-16-pro-256gb-desert-titanium-/p/309731",
+    "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/309731_0_yooz4b.png",
+    "site": "Croma",
+    "recommended": true
+  },
+  {
+    "title": "Apple iPhone 16 Pro (Desert Titanium, 256 GB)",
+    "price": "119900",
+    "url": "https://www.flipkart.com/apple-iphone-16-pro-desert-titanium-256-gb/p/itm4f25cec0bd003",
+    "image": "",
+    "site": "Flipkart",
+    "recommended": false
+  },
+  {
+    "title": "Apple iPhone 16 Pro 256 GB, Natural Titanium",
+    "price": "119900.00",
+    "url": "https://www.reliancedigital.in/product/apple-iphone-16-pro-256-gb-natural-titanium-m0xrez-8590156?internal_source=search_results",
+    "image": "",
+    "site": "Reliance",
+    "recommended": false
+  },
+  {
+    "title": "iPhone 16 Pro Max 1 TB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium",
+    "price": "174900.00",
+    "url": "#",
+    "image": "",
+    "site": "Amazon",
+    "recommended": false
+  }
+]
