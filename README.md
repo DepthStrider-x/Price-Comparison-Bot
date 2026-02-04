@@ -3,33 +3,65 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+![API](https://img.shields.io/badge/API-Hybrid-purple?style=for-the-badge)
 
-This repository contains a complete suite of web scraping tools for Indian e-commerce platforms. It is organized into **Standalone Scrapers** for individual site targeted scraping and a **Main Integrated Bot** that orchestrates them all into a powerful price comparison engine.
+**Forget manual tab switching.** This project is a professional-grade reconnaissance tool that unifies the fragmeneted e-commerce landscape into a single, powerful dashboard. 
+
+It doesn't just "search" — it intelligently orchestrates a fleet of specialized bots to scout **Amazon, Flipkart, Reliance Digital, and Croma** simultaneously. By combining advanced browser automation with reverse-engineered internal APIs, it delivers a real-time market snapshot that empowers users to find the absolute best deal in seconds.
+
+---
+
+## 🚀 Key Technical Features
+
+### 🧠 Hybrid Scraping Architecture
+We don't rely on a one-size-fits-all approach. Each scraper is custom-engineered for its target:
+- **Selenium Stealth Bots (Amazon, Flipkart, Reliance)**: 
+  - Mimics human behavior with random scrolling, mouse movements, and typing delays.
+  - Bypasses sophisticated anti-bot systems (like Akamai/Distil) using a manual ChromeDriver setup that avoids common WebDriver fingerprints.
+- **Direct API Reverse-Engineering (Croma)**: 
+  - bypasses the browser entirely to talk directly to Croma's backend servers.
+  - **Result:** Blazing fast data extraction (milliseconds vs seconds) with 100% accuracy.
+
+### 🖥️ Modern Command Center
+The Streamlit-based UI offers a premium experience:
+- **Instant Visual Comparison**: Product cards are aligned side-by-side for easy decision making.
+- **Intelligent Fallback System**: If a scraper fails to get an image (common on Reliance), the system automatically "borrows" the correct product image from another successful source (like Croma) to keep the UI pristine.
+- **Data Export**: One-click generation of JSON, CSV, or Excel reports for offline analysis.
 
 ---
 
 ## 📂 Project Structure
 
-This monorepo is divided into the following modules:
+This monorepo is organized into specialized modules:
 
-### 1. 🚀 Main Application (`price_comparison_bot/`)
-**The Flagship Tool.** This is the integrated solution that runs all scrapers in parallel, matches products, comparing prices, and presents a beautiful Web UI.
+### 1. ⚡ Main Application (`price_comparison_bot/`)
+The central brain of the operation.
+- **`app.py`**: The Streamlit frontend that visualizes the data.
+- **`orchestrator/runner.py`**: The subprocess manager that launches all scrapers in parallel.
+- **`scrapers/`**: The integrated versions of all bot scripts.
 
-- **Features:** Streamlit UI, Fuzzy Product Matching, Excel/JSON Exports.
-- **Usage:**
-  ```bash
-  cd price_comparison_bot
-  streamlit run app.py
-  ```
-- **Documentation:** See `price_comparison_bot/README.md` for full details.
+### 2. 🧪 Standalone Scrapers
+Specialized labs for testing individual sites.
+- **`Amazon_Scraper/`**: Dedicated Selenium bot for Amazon.
+- **`Flipkart_scraper/`**: Advanced bot with risk-detection bypass logic.
+- **`Croma_Scraper/`**: The high-speed API implementation.
+- **`Reliance_digital/`**: Browser automation for Reliance trends.
 
-### 2. 🕷️ Standalone Scrapers
-Individual folders containing specialized scripts for scraping specific websites. These are useful if you only need data from one source or want to study the logic for a specific site.
+---
 
-- **`Amazon_Scraper/`**: Dedicated tool for extracting Amazon product data.
-- **`Flipkart_scraper/`**: Specialized scraper for Flipkart with anti-bot detection handling.
-- **`Reliance_digital/`**: Scraper for Reliance Digital electronics.
-- **`Croma_Scraper/`**: Scraper for Croma Retail.
+## ⚙️ Customization Guide
+
+### How to Change Product Limits
+By default, the bots fetch the **top 5 relevant products** per site to ensure relevance. You can scale this up easily:
+
+1.  **For Flipkart & Amazon:**
+    - Open `price_comparison_bot/scrapers/flipkart_scraper.py` (Line 24)
+    - Open `price_comparison_bot/scrapers/amazon_scraper.py` (Line 26)
+    - Change `MAX_PRODUCTS = 5` to your desired number (e.g., `10`).
+
+2.  **For Croma (API):**
+    - Open `price_comparison_bot/scrapers/croma_scraper.py` (Line 15)
+    - Change `MAX_PRODUCTS = 5` to `20` or more (APIs are fast!)
 
 ---
 
@@ -38,7 +70,7 @@ Individual folders containing specialized scripts for scraping specific websites
 ### Prerequisites
 1. **Python 3.10+**
 2. **Google Chrome Browser**
-3. **ChromeDriver**: Must be installed manually at `C:\chromedriver\chromedriver-win64\chromedriver.exe` (or update paths in scripts).
+3. **ChromeDriver**: Must be installed manually at `C:\chromedriver\chromedriver-win64\chromedriver.exe` to bypass auto-update corruption issues.
 
 ### Installation
 
