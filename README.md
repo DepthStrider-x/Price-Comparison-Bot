@@ -5,28 +5,50 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
 ![API](https://img.shields.io/badge/API-Hybrid-purple?style=for-the-badge)
 
-**Forget manual tab switching.** This project is a professional-grade reconnaissance tool that unifies the fragmeneted e-commerce landscape into a single, powerful dashboard. 
+# 🔍 Unified E-Commerce Price Comparison Dashboard
 
-It doesn't just "search" — it intelligently orchestrates a fleet of specialized bots to scout **Amazon, Flipkart, Reliance Digital, and Croma** simultaneously. By combining advanced browser automation with reverse-engineered internal APIs, it delivers a real-time market snapshot that empowers users to find the absolute best deal in seconds.
+Forget manual tab switching.  
+This project unifies multiple Indian e-commerce platforms into a single comparison dashboard, allowing users to quickly evaluate prices, availability, and product details across stores.
+
+Rather than relying on a one-size-fits-all scraping approach, the system applies site-specific data collection strategies to improve reliability, speed, and resilience when interacting with real-world e-commerce websites such as **Amazon, Flipkart, Reliance Digital, and Croma**.
 
 ---
 
 ## 🚀 Key Technical Features
 
-### 🧠 Hybrid Scraping Architecture
-We don't rely on a one-size-fits-all approach. Each scraper is custom-engineered for its target:
-- **Selenium Stealth Bots (Amazon, Flipkart, Reliance)**: 
-  - Mimics human behavior with random scrolling, mouse movements, and typing delays.
-  - Bypasses sophisticated anti-bot systems (like Akamai/Distil) using a manual ChromeDriver setup that avoids common WebDriver fingerprints.
-- **Direct API Reverse-Engineering (Croma)**: 
-  - bypasses the browser entirely to talk directly to Croma's backend servers.
-  - **Result:** Blazing fast data extraction (milliseconds vs seconds) with 100% accuracy.
+---
 
-### 🖥️ Modern Command Center
-The Streamlit-based UI offers a premium experience:
-- **Instant Visual Comparison**: Product cards are aligned side-by-side for easy decision making.
-- **Intelligent Fallback System**: If a scraper fails to get an image (common on Reliance), the system automatically "borrows" the correct product image from another successful source (like Croma) to keep the UI pristine.
-- **Data Export**: One-click generation of JSON, CSV, or Excel reports for offline analysis.
+### 🧠 Hybrid Data Collection Architecture
+
+Different platforms require different techniques. This project adapts accordingly:
+
+- **Browser Automation (Amazon, Flipkart, Reliance Digital)**
+  - Selenium-based automation with realistic interaction patterns (scrolling, navigation delays, user-like behavior)
+  - Designed to reduce failures caused by dynamic content loading and basic bot-detection systems
+  - Focuses on stability and repeatability rather than aggressive scraping
+
+- **Direct HTTP Requests (Croma)**
+  - Uses publicly accessible backend endpoints identified via browser network inspection
+  - Bypasses browser overhead for faster data extraction
+  - Improves consistency for pricing and availability data
+
+> This hybrid architecture mirrors how production-grade scraping systems are typically designed:  
+> **selecting the right tool per platform instead of forcing a single solution everywhere.**
+
+---
+
+### 🖥️ Interactive Comparison Dashboard
+
+The Streamlit-based UI prioritizes clarity and fast decision-making:
+
+- **Side-by-Side Product Comparison**
+  - Prices, ratings, and availability aligned in a single view
+
+- **Graceful Data Fallbacks**
+  - Automatically reuses verified data (such as product images) from another source when a field is missing
+
+- **Exportable Results**
+  - One-click export to **CSV**, **JSON**, or **Excel** formats for offline analysis
 
 ---
 
