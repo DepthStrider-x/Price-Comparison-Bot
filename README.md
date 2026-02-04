@@ -14,6 +14,13 @@ Rather than relying on a one-size-fits-all scraping approach, the system applies
 
 ---
 
+
+
+https://github.com/user-attachments/assets/4aa69d11-46c4-43fa-b3b6-1af6390acacd
+
+
+
+
 ## 🚀 Key Technical Features
 
 ---
